@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rashed
 #### Front-end Developer
-![Front-end Developer](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/480598999_9339088892805364_4531758499837064738_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGQDl79XNn_n8WfWjX1-0jELO6mIQvir1Ms7qYhC-KvU0-FJ3awFllLzvvwOIy6Fl1ygkrXA00AO3LNGo2C66Vx&_nc_ohc=bEHgDAO05LIQ7kNvgHOm6bX&_nc_oc=Adi3Yz-CF_10dRwMwvjHScZoskRgBE2WuGFcb-TRrVCacSSRp-X-rBI5umwGjatrtzY&_nc_zt=23&_nc_ht=scontent.fdac140-1.fna&_nc_gid=ATm7rPmg-5DIYvvdpt9GW16&oh=00_AYCK3ihAiWInzcFUf0eLrqLC2rHAt05vgU3SrM7ZM5ft7g&oe=67BFC8A8)
+![Front-end Developer](https://media.licdn.com/dms/image/v2/D5622AQFSjy0yO1kB6w/feedshare-shrink_800/B56ZUuc.w_HoAk-/0/1740241105283?e=1743033600&v=beta&t=MTsL-gS_O--9LWiLPTIsic4Giz0Oaqs4eJNTHJwA1xY)
 
 Experienced Information Technology Executive with a demonstrated history of working in the information technology and services industry. Skilled in HTML, CSS, Figma, Search Engine Optimization (SEO), Web Design and Graphics Design.
 
