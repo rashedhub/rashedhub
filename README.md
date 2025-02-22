@@ -3,7 +3,13 @@
 ### Hi there 👋, I'm Rashed
 #### Front-end Developer
 
+## 🚀 About Me
 Experienced Information Technology Executive with a demonstrated history of working in the information technology and services industry. Skilled in HTML, CSS, Figma, Search Engine Optimization (SEO), Web Design and Graphics Design.
+
+- 🔭 I’m currently working on Digicon Technologies PLC 
+- 🌱 I’m currently learning Tailwind CSS & JavaScript 
+- 📫 How to reach me: rashed.r05@gmail.com 
+- ⚡ Fun fact: It’s all 0’s and 1’s 
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ WordPress <br> 
@@ -11,11 +17,6 @@ Experienced Information Technology Executive with a demonstrated history of work
 ✅ React <br>
 ✅ HTML5 / CSS3 / SASS / Tailwind / Bootstrap <br>
 ✅ Photoshop / Illustrator / Figma <br>
-
-- 🔭 I’m currently working on Digicon Technologies PLC 
-- 🌱 I’m currently learning Tailwind CSS & JavaScript 
-- 📫 How to reach me: rashed.r05@gmail.com 
-- ⚡ Fun fact: It’s all 0’s and 1’s 
 
 ## ☕ Connect with me!
 
