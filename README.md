@@ -1,6 +1,7 @@
+![Front-end Developer](https://media.licdn.com/dms/image/v2/D5622AQG7CQE35aESYw/feedshare-shrink_800/B56ZUueougHsAg-/0/1740241541423?e=1743033600&v=beta&t=7_3oHgecp42V1auUH9qsTyc7VMl77_zOIBDy22j7G-Y)
+
 ### Hi there 👋, I'm Rashed
 #### Front-end Developer
-![Front-end Developer](https://media.licdn.com/dms/image/v2/D5622AQG7CQE35aESYw/feedshare-shrink_800/B56ZUueougHsAg-/0/1740241541423?e=1743033600&v=beta&t=7_3oHgecp42V1auUH9qsTyc7VMl77_zOIBDy22j7G-Y)
 
 Experienced Information Technology Executive with a demonstrated history of working in the information technology and services industry. Skilled in HTML, CSS, Figma, Search Engine Optimization (SEO), Web Design and Graphics Design.
 
