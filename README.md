@@ -24,9 +24,9 @@ Experienced Information Technology Executive with a demonstrated history of work
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rashedhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedhub)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedhub&layout=compact&theme=transparent)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedhub&show_icons=true&theme=transparent)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rashedhub)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rashedhub&theme=transparent)  
 
