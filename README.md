@@ -18,11 +18,11 @@ Experienced Information Technology Executive with a demonstrated history of work
 ✅ HTML5 / CSS3 / SASS / Tailwind / Bootstrap <br>
 ✅ Photoshop / Illustrator / Figma <br>
 
-### 🏆Trophy Collection
+## 🏆Trophy Collection
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rashedhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Number
+## Number
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedhub&layout=compact&theme=transparent)
 
