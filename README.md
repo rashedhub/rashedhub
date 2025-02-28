@@ -18,11 +18,11 @@ Experienced Information Technology Executive with a demonstrated history of work
 ✅ HTML5 / CSS3 / SASS / Tailwind / Bootstrap <br>
 ✅ Photoshop / Illustrator / Figma <br>
 
-## ☕ Connect with me!
-
-[<img src='https://cdn.worldvectorlogo.com/logos/github-icon-2.svg' alt='github' height='40'>](https://github.com/rashedhub)  [<img src='https://raw.githubusercontent.com/shovoalways/shovoalways/main/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdrashed05/)  [<img src='https://raw.githubusercontent.com/shovoalways/shovoalways/main/img/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/mdrashed.05)  
+### 🏆Trophy Collection
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rashedhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Number
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedhub&layout=compact&theme=transparent)
 
@@ -30,3 +30,6 @@ Experienced Information Technology Executive with a demonstrated history of work
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rashedhub&theme=transparent)  
 
+## ☕ Connect with me!
+
+[<img src='https://cdn.worldvectorlogo.com/logos/github-icon-2.svg' alt='github' height='40'>](https://github.com/rashedhub)  [<img src='https://raw.githubusercontent.com/shovoalways/shovoalways/main/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdrashed05/)  [<img src='https://raw.githubusercontent.com/shovoalways/shovoalways/main/img/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/mdrashed.05)  
