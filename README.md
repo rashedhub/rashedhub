@@ -1,4 +1,4 @@
-![Front-end Developer](https://media.licdn.com/dms/image/v2/D5622AQHh0ktKkYG9qQ/feedshare-shrink_800/B56ZUxj8RgHQAg-/0/1740293262929?e=1743033600&v=beta&t=TniSpOr5-H86ZbcVSj1JGnpj6xAVdNqfGDTju3QetH4)
+[<img src='https://github.com/rashedhub/rashedhub/blob/main/img/Banner.png?raw=true' alt='Rashed'>](https://github.com/rashedhub/)
 
 ### Hi there 👋, I'm Rashed
 #### Front-end Developer
